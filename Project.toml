@@ -1,0 +1,5 @@
+name = "numerics"
+uuid = "c7f877fa-a1bb-11e9-2aeb-6f3dca60e554"
+authors = ["Peter Bräuer <pb866.git@gmail.com>"]
+julia = "≥0.7"
+version = "0.1.0"
